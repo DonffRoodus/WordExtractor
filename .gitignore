@@ -2,6 +2,7 @@
 build/
 dist/
 *.spec
+build_exe.py
 
 # Python cache
 __pycache__/
